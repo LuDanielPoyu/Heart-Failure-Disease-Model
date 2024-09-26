@@ -93,7 +93,7 @@ The dataset is split into **training (239 records)** and **testing (60 records)*
   - **Regularizing_LG_UA** and **2nd Dropout** for network tuning.
   - **Cramming_Ri_LG1_SO_MU** to handle multiple unacceptable cases and further enhance performance.
     
-![Model Results](final model.png)
+![Model Results](final_model.png)
 
 ---
 
