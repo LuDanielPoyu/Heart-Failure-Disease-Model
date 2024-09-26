@@ -105,4 +105,4 @@ This **2LNN WAN model** effectively addresses the challenge of predicting heart 
 
 ## Installation and Usage
 
-To run this project, clone the repository and ensure you have the required dependencies installed:
+To run this project, clone the repository.
