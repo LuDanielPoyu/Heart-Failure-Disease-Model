@@ -92,7 +92,9 @@ The dataset is split into **training (239 records)** and **testing (60 records)*
   - **EB_LG Model** for initial weight tuning.
   - **Regularizing_LG_UA** and **2nd Dropout** for network tuning.
   - **Cramming_Ri_LG1_SO_MU** to handle multiple unacceptable cases and further enhance performance.
+    
 ![Model Results](final model.png)
+
 ---
 
 ## Conclusion
